@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    header{
+        background-color: rgb(9, 37, 53);
+        height: 100px;
+    }
+    #menubar{
+        margin-left: 80px;
+        height: 100px;
+    }
+    #logo{
+       
+        height: 80px;
+        width: 80px;
+        margin: 10px;
+        margin-right: 50px;
+       
+    }
+    a{
+      text-align: center;  
+        color: white;
+        margin-right: 150px;
+        text-decoration: none;
+    }
+    button{
+        background-color: rgb(196, 193, 21);
+    }
+    
